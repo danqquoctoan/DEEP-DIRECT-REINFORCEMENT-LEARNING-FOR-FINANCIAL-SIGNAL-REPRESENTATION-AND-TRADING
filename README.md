@@ -47,7 +47,7 @@ NumPy
 
 Pandas
 
-... (Add other libraries like scikit-fuzzy if used for Fuzzy Logic, etc.)
+...
 
 ## Results
 * The thesis provides detailed experimental results and performance evaluations. Key findings are visualized and summarized within the thesis document, demonstrating the effectiveness of the proposed DRNN-Fuzzy architecture.
